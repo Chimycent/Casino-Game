@@ -1,0 +1,40 @@
+body{
+    background-image: url(vector-realistic-casino-roulette-table-wheel-black-red-blue-chips-isolated-green-background_1284-48487.avif);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    font-family: Arial;
+    background-color: darkgreen;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+div{
+    background-image: url(shuffles-poker-cards-in-a-casino.webp);
+    width: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 5% 25%;
+    position: fixed;
+    background: blurred;
+    box-shadow: 0px 5px 50px 20px darkgreen;
+    border: 2px transparent darkgreen;
+    border-radius: 20px;
+    padding: 20px 0;
+}
+h1{
+    color: goldenrod;
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    color: #816f32;
+    width: 150px;
+    height: 30px;
+    background: goldenrod;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-bottom: 4px;
+}
